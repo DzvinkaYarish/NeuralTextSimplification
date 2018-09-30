@@ -1,0 +1,1 @@
+/home/dzvinka/torch/install/bin/th preprocess.lua -train_src ../data/my_data/train_src.txt -train_tgt ../data/my_data/train_trg.txt -valid_src ../data/my_data/dev_src.txt -valid_tgt ../data/my_data/dev_trg.txt -save_data ../data/my_data/
